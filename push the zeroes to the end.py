@@ -9,7 +9,9 @@ Sample Input 0
 Sample Output 0
 
 2 3 4 6 7 10 0'''
+
 #CODE BEGINS
+
 l=list(input().split(" "))
 a=[]
 x=[]
